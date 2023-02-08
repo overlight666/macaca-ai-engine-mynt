@@ -1,6 +1,6 @@
 {
   "name": "macaca-ai-engine-mynt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[![NPM version][npm-image]][npm-url] [![build status][travis-image]][travis-url] [![Test coverage][coveralls-image]][coveralls-url] [![node version][node-image]][node-url] [![npm download][download-image]][download-url]",
   "main": "index.js",
   "directories": {
